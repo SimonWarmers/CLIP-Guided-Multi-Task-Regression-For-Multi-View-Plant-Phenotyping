@@ -1,0 +1,11 @@
+torch
+torchvision
+numpy
+pandas
+matplotlib
+tqdm
+scikit-learn
+scikit-image
+Pillow
+clip @ git+https://github.com/openai/CLIP.git
+groundingdino @ git+https://github.com/IDEA-Research/GroundingDINO.git
