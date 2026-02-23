@@ -33,3 +33,5 @@ The file `results.csv` contains the performance metrics from which the tables in
 - **`custom_lime.py`** – Custom LIME implementation used for model interpretability (supplementary material)
 - The custom LIME is used to create plots at the end of the notebooks.
 
+## Citation
+If you use this code in your research, please cite: 
